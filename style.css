@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.error {
+    color: red !important; /* prioritet */
+}
+
+[blue] {
+    color: blue;
+}
+
+.btn {
+    color: green;
+    padding: 10px;
+    border-radius: 15px;
+    background: linear-gradient( 45deg, #ff4848,#ff7474);
+    /* background-color: burlywood; */
+}
